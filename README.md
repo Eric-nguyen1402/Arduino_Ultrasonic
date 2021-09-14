@@ -1,2 +1,2 @@
-# Arduino_Ultrasonic
-how to read signal from ultrasonic sensor by arduino
+# Arduino_Ultrasonic_BNO055
+how to combine ultrasonic and BNO055 by arduino
